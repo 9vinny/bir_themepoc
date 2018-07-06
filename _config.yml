@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: Bir test site
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+theme: jekyll-poc-bbtheme
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
