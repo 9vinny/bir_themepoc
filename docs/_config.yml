@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+#remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
 lang: en-US
@@ -16,7 +16,8 @@ baseurl: "/bir_themepoc"
 url: "https://9vinny.github.io"
 #repository: "mmistakes/minimal-mistakes"
 author:
-  name: Bir #Dugan Nash
+  name: Bir 
+  #Dugan Nash
   twitter: Towlette_Pettetucci
   picture: #https://api.adorable.io/avatars/285/johndoe.png
 twitter_username: #Towlette_Pettetucci
