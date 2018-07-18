@@ -1,0 +1,1 @@
+Sitemap: http://localhost:4000/bir_themepoc/sitemap.xml

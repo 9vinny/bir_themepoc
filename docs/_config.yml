@@ -5,13 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+theme: "bir_themepoc"
 
 # Site Settings
 lang: en-US
 title: Basically Basic
 email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+description: "test theme"
 baseurl: "/bir_themepoc"
 url: "https://9vinny.github.io"
 #repository: "mmistakes/minimal-mistakes"
@@ -25,7 +25,7 @@ github_username: #Towlette_Pettetucci
 logo: /assets/icons/basically-basic-logo-light.svg
 google_analytics: UA-2011187-6
 disqus:
-  shortname: basically-basic-theme
+  shortname: bir_themepoc
 search: true
 search_full_content: true
 search_provider: lunr
